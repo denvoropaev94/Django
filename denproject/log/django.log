@@ -37,3 +37,853 @@ INFO 2023-10-09 09:22:38,773 views 51247 13099032576 Index page accessed!
 INFO 2023-10-09 09:22:38,774 basehttp 51247 13099032576 "GET / HTTP/1.1" 200 12
 INFO 2023-10-10 08:30:08,484 autoreload 51247 8673616512 /Users/denisvoropaev/PycharmProjects/Django/denproject/firstdenapp/views.py changed, reloading.
 INFO 2023-10-10 08:30:09,162 autoreload 62111 8671838848 Watching for file changes with StatReloader
+INFO 2023-10-12 07:28:12,754 autoreload 18197 8642884224 Watching for file changes with StatReloader
+INFO 2023-10-12 07:30:05,639 autoreload 18322 8639025792 Watching for file changes with StatReloader
+INFO 2023-10-12 07:30:43,201 autoreload 18366 8670462592 Watching for file changes with StatReloader
+INFO 2023-10-12 07:32:47,424 autoreload 18538 8626147968 Watching for file changes with StatReloader
+INFO 2023-10-12 07:32:50,339 views 18538 13005479936 Index page accessed!
+INFO 2023-10-12 07:32:50,348 basehttp 18538 13005479936 "GET / HTTP/1.1" 200 12
+INFO 2023-10-12 08:14:24,808 autoreload 21316 8629314176 Watching for file changes with StatReloader
+INFO 2023-10-16 08:08:27,600 autoreload 9938 8595042880 Watching for file changes with StatReloader
+INFO 2023-10-16 08:08:37,974 autoreload 9938 8595042880 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:08:38,219 autoreload 9944 8607142464 Watching for file changes with StatReloader
+INFO 2023-10-16 08:08:43,859 views 9944 12965777408 Index page accessed!
+INFO 2023-10-16 08:08:43,863 basehttp 9944 12965777408 "GET / HTTP/1.1" 200 12
+INFO 2023-10-16 08:08:46,929 basehttp 9944 12965777408 "GET /lesson3 HTTP/1.1" 200 174
+INFO 2023-10-16 08:23:20,039 autoreload 9944 8607142464 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:23:20,452 autoreload 10272 8633717312 Watching for file changes with StatReloader
+INFO 2023-10-16 08:26:30,001 autoreload 10272 8633717312 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/views.py changed, reloading.
+INFO 2023-10-16 08:26:30,431 autoreload 10310 8640152128 Watching for file changes with StatReloader
+INFO 2023-10-16 08:27:53,979 autoreload 10310 8640152128 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:27:54,352 autoreload 10342 8592917056 Watching for file changes with StatReloader
+INFO 2023-10-16 08:41:02,323 autoreload 10342 8592917056 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/views.py changed, reloading.
+INFO 2023-10-16 08:41:02,793 autoreload 10528 8673198656 Watching for file changes with StatReloader
+INFO 2023-10-16 08:44:07,432 autoreload 10528 8673198656 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:44:07,779 autoreload 10584 8670573120 Watching for file changes with StatReloader
+INFO 2023-10-16 08:44:23,255 autoreload 10584 8670573120 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:44:23,622 autoreload 10593 8591196736 Watching for file changes with StatReloader
+INFO 2023-10-16 08:44:38,273 basehttp 10593 12937068544 "GET /lesson3 HTTP/1.1" 200 174
+WARNING 2023-10-16 08:44:40,344 log 10593 12937068544 Not Found: /lesson3/for
+WARNING 2023-10-16 08:44:40,345 basehttp 10593 12937068544 "GET /lesson3/for HTTP/1.1" 404 2959
+INFO 2023-10-16 08:44:51,372 autoreload 10593 8591196736 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:44:51,702 autoreload 10611 8635687488 Watching for file changes with StatReloader
+WARNING 2023-10-16 08:44:52,339 log 10611 13023473664 Not Found: /lesson3/for
+WARNING 2023-10-16 08:44:52,340 basehttp 10611 13023473664 "GET /lesson3/for HTTP/1.1" 404 2960
+WARNING 2023-10-16 08:45:34,158 log 10611 13023473664 Not Found: /lesson3/
+WARNING 2023-10-16 08:45:34,160 basehttp 10611 13023473664 "GET /lesson3/ HTTP/1.1" 404 2951
+WARNING 2023-10-16 08:46:43,444 log 10611 13023473664 Not Found: /lesson3/for
+WARNING 2023-10-16 08:46:43,446 basehttp 10611 13023473664 "GET /lesson3/for HTTP/1.1" 404 2960
+WARNING 2023-10-16 08:47:02,876 log 10611 13023473664 Not Found: /lesson3/for
+WARNING 2023-10-16 08:47:02,877 basehttp 10611 13023473664 "GET /lesson3/for HTTP/1.1" 404 2960
+WARNING 2023-10-16 08:47:03,390 log 10611 13023473664 Not Found: /lesson3/for/
+WARNING 2023-10-16 08:47:03,391 basehttp 10611 13023473664 "GET /lesson3/for/ HTTP/1.1" 404 2963
+WARNING 2023-10-16 08:47:10,339 log 10611 13023473664 Not Found: /lesson3/
+WARNING 2023-10-16 08:47:10,340 basehttp 10611 13023473664 "GET /lesson3/ HTTP/1.1" 404 2951
+INFO 2023-10-16 08:47:10,910 basehttp 10611 13023473664 "GET /lesson3 HTTP/1.1" 200 174
+WARNING 2023-10-16 08:47:27,047 log 10611 13023473664 Not Found: /lesson3/if
+WARNING 2023-10-16 08:47:27,049 basehttp 10611 13023473664 "GET /lesson3/if HTTP/1.1" 404 2957
+WARNING 2023-10-16 08:47:30,434 log 10611 13023473664 Not Found: /lesson3/
+WARNING 2023-10-16 08:47:30,435 basehttp 10611 13023473664 "GET /lesson3/ HTTP/1.1" 404 2951
+WARNING 2023-10-16 08:47:31,265 log 10611 13023473664 Not Found: /lesson3/for/
+WARNING 2023-10-16 08:47:31,266 basehttp 10611 13023473664 "GET /lesson3/for/ HTTP/1.1" 404 2963
+WARNING 2023-10-16 08:48:19,853 log 10611 13023473664 Not Found: /lesson3/for/
+WARNING 2023-10-16 08:48:19,855 basehttp 10611 13023473664 "GET /lesson3/for/ HTTP/1.1" 404 2963
+WARNING 2023-10-16 08:48:30,208 log 10611 13040263168 Not Found: /lesson3/for/
+WARNING 2023-10-16 08:48:30,209 basehttp 10611 13040263168 "GET /lesson3/for/ HTTP/1.1" 404 2963
+WARNING 2023-10-16 08:48:30,261 log 10611 13040263168 Not Found: /favicon.ico
+WARNING 2023-10-16 08:48:30,261 basehttp 10611 13040263168 "GET /favicon.ico HTTP/1.1" 404 2549
+INFO 2023-10-16 08:48:34,650 views 10611 13040263168 Index page accessed!
+INFO 2023-10-16 08:48:34,651 basehttp 10611 13040263168 "GET / HTTP/1.1" 200 12
+WARNING 2023-10-16 08:48:40,139 log 10611 13040263168 Not Found: /clients
+WARNING 2023-10-16 08:48:40,139 basehttp 10611 13040263168 "GET /clients HTTP/1.1" 404 2537
+WARNING 2023-10-16 08:48:52,863 log 10611 13040263168 Not Found: /hw2/clients
+WARNING 2023-10-16 08:48:52,864 basehttp 10611 13040263168 "GET /hw2/clients HTTP/1.1" 404 2549
+INFO 2023-10-16 08:48:59,903 basehttp 10611 13040263168 "GET /lesson3 HTTP/1.1" 200 174
+INFO 2023-10-16 08:49:14,986 autoreload 10611 8635687488 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 08:49:15,332 autoreload 10683 8600908352 Watching for file changes with StatReloader
+INFO 2023-10-16 08:49:23,146 basehttp 10683 12953493504 "GET /lesson3/for HTTP/1.1" 301 0
+INFO 2023-10-16 08:49:23,152 basehttp 10683 12970283008 "GET /lesson3/for/ HTTP/1.1" 200 847
+INFO 2023-10-16 08:49:34,708 basehttp 10683 12953493504 "GET /lesson3/for/ HTTP/1.1" 200 847
+INFO 2023-10-16 09:24:22,835 autoreload 10683 8600908352 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/views.py changed, reloading.
+INFO 2023-10-16 09:24:23,317 autoreload 11174 8634176064 Watching for file changes with StatReloader
+INFO 2023-10-16 09:24:52,897 autoreload 11174 8634176064 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/views.py changed, reloading.
+INFO 2023-10-16 09:24:53,228 autoreload 11192 8627958336 Watching for file changes with StatReloader
+INFO 2023-10-16 09:25:08,546 autoreload 11192 8627958336 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/views.py changed, reloading.
+INFO 2023-10-16 09:25:08,939 autoreload 11205 8666743360 Watching for file changes with StatReloader
+INFO 2023-10-16 09:25:48,712 autoreload 11205 8666743360 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 09:25:49,110 autoreload 11217 8597090880 Watching for file changes with StatReloader
+INFO 2023-10-16 09:26:13,704 autoreload 11217 8597090880 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/urls.py changed, reloading.
+INFO 2023-10-16 09:26:14,015 autoreload 11228 8600003136 Watching for file changes with StatReloader
+INFO 2023-10-16 09:27:05,825 autoreload 11228 8600003136 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/urls.py changed, reloading.
+INFO 2023-10-16 09:27:06,214 autoreload 11261 8672084544 Watching for file changes with StatReloader
+INFO 2023-10-16 09:27:21,273 basehttp 11261 13097889792 "GET /lesson3/index HTTP/1.1" 301 0
+INFO 2023-10-16 09:27:21,280 basehttp 11261 13114679296 "GET /lesson3/index/ HTTP/1.1" 200 258
+INFO 2023-10-16 09:27:27,656 basehttp 11261 13097889792 "GET /lesson3/about HTTP/1.1" 301 0
+INFO 2023-10-16 09:27:27,661 basehttp 11261 13114679296 "GET /lesson3/about/ HTTP/1.1" 200 276
+INFO 2023-10-16 09:33:28,436 autoreload 11261 8672084544 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-16 09:33:28,933 autoreload 11328 8665481792 Watching for file changes with StatReloader
+INFO 2023-10-16 09:38:02,675 basehttp 11328 13083144192 "GET /lesson3/index/ HTTP/1.1" 200 425
+INFO 2023-10-16 09:41:30,005 autoreload 11328 8665481792 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/urls.py changed, reloading.
+INFO 2023-10-16 09:41:30,471 autoreload 11502 8664490560 Watching for file changes with StatReloader
+INFO 2023-10-16 09:41:48,961 autoreload 11502 8664490560 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/urls.py changed, reloading.
+INFO 2023-10-16 09:41:49,397 autoreload 11523 8599220800 Watching for file changes with StatReloader
+INFO 2023-10-16 09:41:56,666 autoreload 11523 8599220800 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/urls.py changed, reloading.
+INFO 2023-10-16 09:41:57,102 autoreload 11530 8633344576 Watching for file changes with StatReloader
+INFO 2023-10-16 09:42:00,826 views 11530 13017837568 Index page accessed!
+INFO 2023-10-16 09:42:00,827 basehttp 11530 13017837568 "GET / HTTP/1.1" 200 12
+INFO 2023-10-16 09:42:04,112 views 11530 13017837568 Index page accessed!
+INFO 2023-10-16 09:42:04,113 basehttp 11530 13017837568 "GET / HTTP/1.1" 200 12
+INFO 2023-10-16 09:42:17,712 autoreload 11530 8633344576 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/urls.py changed, reloading.
+INFO 2023-10-16 09:42:18,115 autoreload 11540 8599917120 Watching for file changes with StatReloader
+INFO 2023-10-16 09:42:18,896 basehttp 11540 12952064000 "GET / HTTP/1.1" 200 425
+INFO 2023-10-16 11:29:05,191 autoreload 11540 8599917120 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/models.py changed, reloading.
+INFO 2023-10-16 11:29:05,607 autoreload 12331 8595608128 Watching for file changes with StatReloader
+INFO 2023-10-16 11:35:05,297 autoreload 12331 8595608128 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/models.py changed, reloading.
+INFO 2023-10-16 11:35:05,648 autoreload 12471 8668000832 Watching for file changes with StatReloader
+INFO 2023-10-16 12:34:18,577 autoreload 13279 8663659072 Watching for file changes with StatReloader
+INFO 2023-10-16 12:35:00,896 basehttp 13279 13078847488 "GET /lesson3/for/ HTTP/1.1" 200 847
+INFO 2023-10-16 12:35:01,122 basehttp 13279 13078847488 "GET /lesson3/ HTTP/1.1" 200 174
+INFO 2023-10-16 12:35:06,292 basehttp 13279 13078847488 "GET /lesson3/author/5 HTTP/1.1" 301 0
+INFO 2023-10-16 12:35:06,317 basehttp 13279 13078847488 "GET /lesson3/author/5/ HTTP/1.1" 200 1677
+INFO 2023-10-16 12:37:35,201 basehttp 13279 13078847488 "GET /lesson3/post/47/ HTTP/1.1" 200 819
+INFO 2023-10-19 08:33:47,253 autoreload 28497 8641483328 Watching for file changes with StatReloader
+INFO 2023-10-19 08:33:49,230 basehttp 28497 13037158400 "GET / HTTP/1.1" 200 975
+INFO 2023-10-19 08:33:56,268 basehttp 28497 13037158400 "GET / HTTP/1.1" 200 975
+INFO 2023-10-19 08:33:57,809 basehttp 28497 13037158400 "GET /lesson3 HTTP/1.1" 301 0
+INFO 2023-10-19 08:33:57,822 basehttp 28497 13037158400 "GET /lesson3/ HTTP/1.1" 200 174
+INFO 2023-10-19 08:34:07,339 basehttp 28497 13037158400 "GET /lesson4/user/add HTTP/1.1" 301 0
+ERROR 2023-10-19 08:34:07,394 log 28497 13037158400 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:34:07,458 basehttp 28497 13037158400 "GET /lesson4/user/add/ HTTP/1.1" 500 122781
+INFO 2023-10-19 08:35:28,136 basehttp 28497 13037158400 "GET / HTTP/1.1" 200 975
+WARNING 2023-10-19 08:35:28,220 log 28497 13037158400 Not Found: /favicon.ico
+WARNING 2023-10-19 08:35:28,220 basehttp 28497 13037158400 "GET /favicon.ico HTTP/1.1" 404 2430
+WARNING 2023-10-19 08:35:33,676 log 28497 13037158400 Not Found: /lesson4
+WARNING 2023-10-19 08:35:33,677 basehttp 28497 13037158400 "GET /lesson4 HTTP/1.1" 404 2418
+ERROR 2023-10-19 08:35:41,696 log 28497 13037158400 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:35:41,718 basehttp 28497 13037158400 "GET /lesson4/user/add/ HTTP/1.1" 500 123553
+ERROR 2023-10-19 08:37:28,171 log 28497 13037158400 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:37:28,191 basehttp 28497 13037158400 "GET /lesson4/user/add/ HTTP/1.1" 500 122781
+WARNING 2023-10-19 08:37:29,910 log 28497 13037158400 Not Found: /last_coins/
+WARNING 2023-10-19 08:37:29,911 basehttp 28497 13037158400 "GET /last_coins/ HTTP/1.1" 404 2430
+INFO 2023-10-19 08:37:30,236 basehttp 28497 13037158400 "GET / HTTP/1.1" 200 975
+INFO 2023-10-19 08:39:06,008 basehttp 28497 13037158400 "GET /lesson3/ HTTP/1.1" 200 174
+ERROR 2023-10-19 08:39:07,832 log 28497 13037158400 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: lesson4/base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: lesson4/base.html 
+ERROR 2023-10-19 08:39:07,840 basehttp 28497 13037158400 "GET /lesson4/user/add/ HTTP/1.1" 500 123069
+ERROR 2023-10-19 08:40:08,043 log 28497 13037158400 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:40:08,139 basehttp 28497 13037158400 "GET /lesson4/user/add/ HTTP/1.1" 500 122807
+INFO 2023-10-19 08:40:21,357 autoreload 28697 8666800704 Watching for file changes with StatReloader
+ERROR 2023-10-19 08:40:24,704 log 28697 13084721152 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:40:24,716 basehttp 28697 13084721152 "GET /lesson4/user/add/ HTTP/1.1" 500 122781
+ERROR 2023-10-19 08:40:25,418 log 28697 13084721152 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:40:25,425 basehttp 28697 13084721152 "GET /lesson4/user/add/ HTTP/1.1" 500 122781
+ERROR 2023-10-19 08:41:05,760 log 28697 13084721152 Internal Server Error: /lesson4/user/add/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 18, in user_form
+    return render(request, 'lesson4/user_form.html', {'form': form})
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html 
+ERROR 2023-10-19 08:41:05,774 basehttp 28697 13084721152 "GET /lesson4/user/add/ HTTP/1.1" 500 122781
+INFO 2023-10-19 08:41:48,910 autoreload 28723 8632906304 Watching for file changes with StatReloader
+INFO 2023-10-19 08:41:50,535 basehttp 28723 13018558464 "GET /lesson4/user/add/ HTTP/1.1" 200 1659
+INFO 2023-10-19 08:42:08,547 basehttp 28723 13018558464 "POST /lesson4/user/add/ HTTP/1.1" 200 1702
+INFO 2023-10-19 08:42:46,547 basehttp 28723 13018558464 "POST /lesson4/user/add/ HTTP/1.1" 200 1702
+INFO 2023-10-19 08:47:22,534 basehttp 28723 13018558464 "GET /lesson4/user/add/ HTTP/1.1" 200 1659
+INFO 2023-10-19 08:48:26,992 autoreload 28723 8632906304 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 08:48:27,533 autoreload 28831 8671060544 Watching for file changes with StatReloader
+INFO 2023-10-19 08:51:16,048 autoreload 28831 8671060544 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 08:51:16,375 autoreload 28861 8593486400 Watching for file changes with StatReloader
+INFO 2023-10-19 08:56:35,241 autoreload 28861 8593486400 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 08:56:35,658 autoreload 28904 8596869696 Watching for file changes with StatReloader
+INFO 2023-10-19 08:57:30,039 autoreload 28904 8596869696 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 08:57:30,395 autoreload 28917 8606704192 Watching for file changes with StatReloader
+INFO 2023-10-19 08:58:50,885 autoreload 28917 8606704192 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/urls.py changed, reloading.
+INFO 2023-10-19 08:58:51,254 autoreload 28949 8639193664 Watching for file changes with StatReloader
+INFO 2023-10-19 09:02:44,048 autoreload 28992 8640762432 Watching for file changes with StatReloader
+INFO 2023-10-19 09:02:45,233 basehttp 28992 13035061248 "GET / HTTP/1.1" 200 975
+WARNING 2023-10-19 09:02:49,984 log 28992 13035061248 Not Found: /last_coins/
+WARNING 2023-10-19 09:02:49,985 basehttp 28992 13035061248 "GET /last_coins/ HTTP/1.1" 404 2430
+INFO 2023-10-19 09:02:50,502 basehttp 28992 13035061248 "GET /lesson3/ HTTP/1.1" 200 174
+INFO 2023-10-19 09:02:52,479 basehttp 28992 13035061248 "GET /lesson4/user/add/ HTTP/1.1" 200 1659
+INFO 2023-10-19 09:02:55,230 basehttp 28992 13035061248 "GET /lesson4/user/add/ HTTP/1.1" 200 1659
+INFO 2023-10-19 09:02:59,338 basehttp 28992 13035061248 "GET /lesson4/forms HTTP/1.1" 301 0
+ERROR 2023-10-19 09:02:59,385 log 28992 13035061248 Internal Server Error: /lesson4/forms/
+Traceback (most recent call last):
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/denisvoropaev/PycharmProjects/Django/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py", line 28, in many_fields_form
+    return render(request, 'lesson4/many_fields_form.html', {'form': form})
+UnboundLocalError: local variable 'form' referenced before assignment
+ERROR 2023-10-19 09:02:59,385 basehttp 28992 13035061248 "GET /lesson4/forms/ HTTP/1.1" 500 59415
+INFO 2023-10-19 09:04:51,912 autoreload 28992 8640762432 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 09:04:52,266 autoreload 29031 8633246272 Watching for file changes with StatReloader
+INFO 2023-10-19 09:04:54,931 basehttp 29031 13019058176 "GET /lesson4/forms/ HTTP/1.1" 200 2170
+INFO 2023-10-19 09:05:13,917 basehttp 29031 13019058176 "POST /lesson4/forms/ HTTP/1.1" 200 2243
+INFO 2023-10-19 09:06:34,442 autoreload 29031 8633246272 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-19 09:06:34,775 autoreload 29083 8603284032 Watching for file changes with StatReloader
+INFO 2023-10-19 09:06:43,217 views 29083 12961030144 Получили form.cleaned_data={'name': 'den', 'email': 'den@mail.ru', 'age': 28, 'height': 23.4, 'is_active': True, 'birthdate': datetime.date(1994, 11, 12), 'gender': 'M'}
+INFO 2023-10-19 09:06:43,246 basehttp 29083 12961030144 "POST /lesson4/forms/ HTTP/1.1" 200 2243
+INFO 2023-10-19 09:15:08,483 autoreload 29083 8603284032 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:15:08,859 autoreload 29165 8672956992 Watching for file changes with StatReloader
+INFO 2023-10-19 09:17:21,240 autoreload 29165 8672956992 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:17:21,632 autoreload 29209 8661582400 Watching for file changes with StatReloader
+INFO 2023-10-19 09:19:28,586 autoreload 29209 8661582400 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:19:29,015 autoreload 29235 8591852096 Watching for file changes with StatReloader
+INFO 2023-10-19 09:20:19,175 autoreload 29235 8591852096 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 09:20:19,575 autoreload 29261 8604234304 Watching for file changes with StatReloader
+INFO 2023-10-19 09:20:33,946 autoreload 29261 8604234304 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 09:20:34,383 autoreload 29272 8639320640 Watching for file changes with StatReloader
+INFO 2023-10-19 09:21:03,987 basehttp 29272 13031215104 "GET /lesson4/forms/ HTTP/1.1" 200 2791
+INFO 2023-10-19 09:21:53,206 autoreload 29272 8639320640 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:21:53,535 autoreload 29287 8638161472 Watching for file changes with StatReloader
+INFO 2023-10-19 09:21:54,826 basehttp 29287 13029134336 "GET /lesson4/forms/ HTTP/1.1" 200 2779
+INFO 2023-10-19 09:22:12,049 autoreload 29287 8638161472 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:22:12,330 autoreload 29303 8674173504 Watching for file changes with StatReloader
+INFO 2023-10-19 09:22:14,056 basehttp 29303 13100535808 "GET /lesson4/forms/ HTTP/1.1" 200 2791
+INFO 2023-10-19 09:22:22,727 autoreload 29303 8674173504 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:22:23,049 autoreload 29308 8671040064 Watching for file changes with StatReloader
+INFO 2023-10-19 09:22:24,256 basehttp 29308 13094617088 "GET /lesson4/forms/ HTTP/1.1" 200 2611
+INFO 2023-10-19 09:22:47,602 autoreload 29308 8671040064 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:22:48,085 autoreload 29322 8634446400 Watching for file changes with StatReloader
+INFO 2023-10-19 09:22:53,709 basehttp 29322 13019738112 "GET /lesson4/forms/ HTTP/1.1" 200 2568
+INFO 2023-10-19 09:28:31,964 autoreload 29322 8634446400 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:28:32,353 autoreload 29404 8666231360 Watching for file changes with StatReloader
+INFO 2023-10-19 09:28:40,653 autoreload 29404 8666231360 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:28:41,074 autoreload 29416 8630067776 Watching for file changes with StatReloader
+INFO 2023-10-19 09:29:12,621 autoreload 29416 8630067776 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:29:12,953 autoreload 29424 8663732800 Watching for file changes with StatReloader
+INFO 2023-10-19 09:29:18,136 autoreload 29424 8663732800 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 09:29:18,442 autoreload 29430 8627556928 Watching for file changes with StatReloader
+INFO 2023-10-19 09:31:03,791 basehttp 29430 13008351232 "GET /lesson4/forms/ HTTP/1.1" 200 2568
+INFO 2023-10-19 09:37:28,549 autoreload 29430 8627556928 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/models.py changed, reloading.
+INFO 2023-10-19 09:37:29,074 autoreload 29507 8632447552 Watching for file changes with StatReloader
+INFO 2023-10-19 09:38:12,965 autoreload 29507 8632447552 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/models.py changed, reloading.
+INFO 2023-10-19 09:38:13,312 autoreload 29517 8607392320 Watching for file changes with StatReloader
+INFO 2023-10-19 11:14:49,507 autoreload 30169 8595878464 Watching for file changes with StatReloader
+INFO 2023-10-19 11:14:54,264 basehttp 30169 12944433152 "GET /lesson4/forms/ HTTP/1.1" 200 2568
+INFO 2023-10-19 11:14:55,204 basehttp 30169 12944433152 "GET /lesson4/user/add/ HTTP/1.1" 200 1608
+INFO 2023-10-19 11:14:59,087 basehttp 30169 12944433152 "GET /lesson4/user HTTP/1.1" 301 0
+INFO 2023-10-19 11:14:59,098 basehttp 30169 12944433152 "GET /lesson4/user/ HTTP/1.1" 200 1637
+INFO 2023-10-19 11:16:23,229 views 30169 12944433152 Получили name='denis', email='den@mail.ru', age=28
+INFO 2023-10-19 11:16:23,254 basehttp 30169 12944433152 "POST /lesson4/user/ HTTP/1.1" 200 1694
+INFO 2023-10-19 11:19:19,476 autoreload 30169 8595878464 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/forms.py changed, reloading.
+INFO 2023-10-19 11:19:19,926 autoreload 30226 8632848960 Watching for file changes with StatReloader
+INFO 2023-10-19 11:20:55,672 autoreload 30226 8632848960 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 11:20:56,257 autoreload 30262 8670782016 Watching for file changes with StatReloader
+INFO 2023-10-19 11:23:35,341 autoreload 30262 8670782016 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 11:23:35,781 autoreload 30305 8663544384 Watching for file changes with StatReloader
+INFO 2023-10-19 11:25:02,739 autoreload 30305 8663544384 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/views.py changed, reloading.
+INFO 2023-10-19 11:25:03,179 autoreload 30321 8666251840 Watching for file changes with StatReloader
+INFO 2023-10-19 11:26:43,154 autoreload 30321 8666251840 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson4/urls.py changed, reloading.
+INFO 2023-10-19 11:26:43,665 autoreload 30368 8664265280 Watching for file changes with StatReloader
+INFO 2023-10-19 11:29:50,419 basehttp 30368 13081174016 "GET /lesson4/user/add/ HTTP/1.1" 200 1608
+INFO 2023-10-19 11:29:50,636 basehttp 30368 13081174016 "GET /lesson4/forms/ HTTP/1.1" 200 2568
+INFO 2023-10-19 11:29:53,903 basehttp 30368 13081174016 "GET /lesson4/forms/ HTTP/1.1" 200 2568
+INFO 2023-10-19 11:29:55,540 basehttp 30368 13081174016 "GET /lesson4/user/add/ HTTP/1.1" 200 1608
+INFO 2023-10-19 11:29:57,025 basehttp 30368 13081174016 "GET /lesson4/upload HTTP/1.1" 301 0
+INFO 2023-10-19 11:29:57,039 basehttp 30368 13081174016 "GET /lesson4/upload/ HTTP/1.1" 200 1323
+INFO 2023-10-19 11:31:36,702 basehttp 30368 13081174016 "POST /lesson4/upload/ HTTP/1.1" 200 1323
+INFO 2023-10-23 08:09:49,573 autoreload 41938 8660910656 Watching for file changes with StatReloader
+INFO 2023-10-23 08:09:52,915 basehttp 41938 13074690048 "GET / HTTP/1.1" 200 975
+WARNING 2023-10-23 08:09:53,695 log 41938 13091479552 Not Found: /apple-touch-icon-precomposed.png
+WARNING 2023-10-23 08:09:53,696 basehttp 41938 13091479552 "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2493
+WARNING 2023-10-23 08:09:53,708 log 41938 13091479552 Not Found: /apple-touch-icon.png
+WARNING 2023-10-23 08:09:53,709 basehttp 41938 13091479552 "GET /apple-touch-icon.png HTTP/1.1" 404 2457
+INFO 2023-10-23 08:10:02,205 basehttp 41938 13108269056 "GET / HTTP/1.1" 200 975
+WARNING 2023-10-23 08:10:02,301 log 41938 13108269056 Not Found: /favicon.ico
+WARNING 2023-10-23 08:10:02,301 basehttp 41938 13108269056 "GET /favicon.ico HTTP/1.1" 404 2430
+INFO 2023-10-23 08:10:09,161 basehttp 41938 13108269056 "GET /admin HTTP/1.1" 301 0
+INFO 2023-10-23 08:10:09,182 basehttp 41938 13125058560 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:10:09,222 basehttp 41938 13125058560 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-23 08:10:09,253 basehttp 41938 13141848064 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-10-23 08:10:09,255 basehttp 41938 13158637568 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-10-23 08:10:09,257 basehttp 41938 13108269056 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-10-23 08:10:09,257 basehttp 41938 13125058560 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-10-23 08:10:09,258 basehttp 41938 13192216576 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-10-23 08:10:09,259 basehttp 41938 13158637568 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-10-23 08:10:09,260 basehttp 41938 13175427072 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-10-23 08:18:21,531 autoreload 42037 8603800128 Watching for file changes with StatReloader
+INFO 2023-10-23 08:18:27,358 basehttp 42037 12962004992 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-23 08:18:35,965 basehttp 42037 12962004992 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:18:35,977 basehttp 42037 12962004992 "GET /admin/ HTTP/1.1" 200 5857
+INFO 2023-10-23 08:18:35,993 basehttp 42037 12962004992 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-10-23 08:18:35,998 basehttp 42037 12978794496 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-10-23 08:18:35,998 basehttp 42037 12962004992 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-10-23 08:29:32,099 basehttp 42037 12962004992 "GET /admin/auth/user/ HTTP/1.1" 200 11315
+INFO 2023-10-23 08:29:32,117 basehttp 42037 12962004992 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-10-23 08:29:32,126 basehttp 42037 13029163008 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-10-23 08:29:32,127 basehttp 42037 13012373504 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-10-23 08:29:32,128 basehttp 42037 12962004992 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-10-23 08:29:32,132 basehttp 42037 13045952512 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-10-23 08:29:32,135 basehttp 42037 13029163008 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-10-23 08:29:32,135 basehttp 42037 13045952512 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2023-10-23 08:29:32,136 basehttp 42037 13012373504 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-10-23 08:29:32,141 basehttp 42037 12978794496 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:29:32,142 basehttp 42037 13029163008 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-10-23 08:29:32,144 basehttp 42037 12995584000 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-10-23 08:29:32,144 basehttp 42037 12962004992 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-10-23 08:29:32,150 basehttp 42037 12995584000 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-10-23 08:29:32,170 basehttp 42037 12962004992 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2023-10-23 08:29:32,170 basehttp 42037 12995584000 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-10-23 08:29:34,935 basehttp 42037 12995584000 "GET /admin/auth/user/add/ HTTP/1.1" 200 10993
+INFO 2023-10-23 08:29:34,949 basehttp 42037 12978794496 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-10-23 08:29:34,949 basehttp 42037 12995584000 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-10-23 08:29:34,952 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:29:34,955 basehttp 42037 12962004992 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-10-23 08:29:34,956 basehttp 42037 12995584000 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-10-23 08:30:04,265 basehttp 42037 12962004992 "POST /admin/auth/user/add/ HTTP/1.1" 200 11369
+INFO 2023-10-23 08:30:04,285 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:30:57,799 basehttp 42037 12962004992 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:30:57,828 basehttp 42037 12962004992 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24447
+INFO 2023-10-23 08:30:57,847 basehttp 42037 12978794496 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2023-10-23 08:30:57,848 basehttp 42037 13029163008 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+INFO 2023-10-23 08:30:57,849 basehttp 42037 12995584000 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2023-10-23 08:30:57,850 basehttp 42037 13012373504 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2023-10-23 08:30:57,853 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:30:57,890 basehttp 42037 12978794496 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2023-10-23 08:30:57,891 basehttp 42037 13012373504 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2023-10-23 08:30:57,891 basehttp 42037 13029163008 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2023-10-23 08:30:57,891 basehttp 42037 12962004992 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2023-10-23 08:30:57,893 basehttp 42037 12995584000 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2023-10-23 08:32:59,982 basehttp 42037 12962004992 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:32:59,998 basehttp 42037 12962004992 "GET /admin/auth/user/ HTTP/1.1" 200 11957
+INFO 2023-10-23 08:33:00,019 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:34:12,346 basehttp 42037 12962004992 "GET /admin/auth/group/add/ HTTP/1.1" 200 13821
+INFO 2023-10-23 08:34:12,366 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:34:31,471 basehttp 42037 12962004992 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:34:31,492 basehttp 42037 12962004992 "GET /admin/auth/group/ HTTP/1.1" 200 9119
+INFO 2023-10-23 08:34:31,515 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:35:04,092 basehttp 42037 12962004992 "GET /admin/auth/user/ HTTP/1.1" 200 12039
+INFO 2023-10-23 08:35:04,113 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:35:05,268 basehttp 42037 12962004992 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 24282
+INFO 2023-10-23 08:35:05,287 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:35:12,120 basehttp 42037 12962004992 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:35:12,143 basehttp 42037 12962004992 "GET /admin/auth/user/ HTTP/1.1" 200 12263
+INFO 2023-10-23 08:35:12,166 basehttp 42037 12962004992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:35:37,663 basehttp 42037 12962004992 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-23 08:35:39,843 basehttp 42037 12962004992 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:35:39,854 basehttp 42037 12962004992 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-23 08:35:55,224 basehttp 42037 12962004992 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:35:55,232 basehttp 42037 12962004992 "GET /admin/ HTTP/1.1" 200 4805
+INFO 2023-10-23 08:42:07,535 autoreload 42037 8603800128 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/models.py changed, reloading.
+INFO 2023-10-23 08:42:08,011 autoreload 42170 8595161664 Watching for file changes with StatReloader
+INFO 2023-10-23 08:42:23,397 autoreload 42170 8595161664 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/models.py changed, reloading.
+INFO 2023-10-23 08:42:23,842 autoreload 42180 8627933760 Watching for file changes with StatReloader
+INFO 2023-10-23 08:46:58,222 autoreload 42271 8628232768 Watching for file changes with StatReloader
+INFO 2023-10-23 08:47:14,626 basehttp 42271 13009833984 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-23 08:47:16,488 basehttp 42271 13009833984 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:47:16,532 basehttp 42271 13009833984 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-23 08:47:22,981 basehttp 42271 13009833984 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:47:22,998 basehttp 42271 13009833984 "GET /admin/ HTTP/1.1" 200 8231
+INFO 2023-10-23 08:53:59,683 autoreload 42271 8628232768 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson3/admin.py changed, reloading.
+INFO 2023-10-23 08:54:00,143 autoreload 42406 8641278528 Watching for file changes with StatReloader
+INFO 2023-10-23 08:54:56,193 autoreload 42423 8667394624 Watching for file changes with StatReloader
+INFO 2023-10-23 08:54:59,641 basehttp 42423 13087051776 "GET /admin/ HTTP/1.1" 200 9366
+INFO 2023-10-23 08:55:31,711 basehttp 42423 13087051776 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-23 08:55:33,082 basehttp 42423 13087051776 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:55:33,116 basehttp 42423 13087051776 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-23 08:55:38,154 basehttp 42423 13087051776 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:55:38,164 basehttp 42423 13087051776 "GET /admin/ HTTP/1.1" 200 5664
+INFO 2023-10-23 08:58:24,857 basehttp 42423 13087051776 "GET /admin/lesson3/posts/ HTTP/1.1" 200 17871
+INFO 2023-10-23 08:58:29,919 basehttp 42423 13087051776 "GET /admin/lesson3/posts/96/change/ HTTP/1.1" 200 11059
+INFO 2023-10-23 08:58:29,944 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:58:35,276 basehttp 42423 13087051776 "POST /admin/lesson3/posts/96/change/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:58:35,321 basehttp 42423 13087051776 "GET /admin/lesson3/posts/ HTTP/1.1" 200 18089
+INFO 2023-10-23 08:59:04,423 basehttp 42423 13087051776 "POST /admin/logout/ HTTP/1.1" 200 3709
+INFO 2023-10-23 08:59:05,979 basehttp 42423 13087051776 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:59:05,994 basehttp 42423 13087051776 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4267
+INFO 2023-10-23 08:59:10,415 basehttp 42423 13087051776 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-10-23 08:59:10,426 basehttp 42423 13087051776 "GET /admin/ HTTP/1.1" 200 9366
+INFO 2023-10-23 08:59:11,680 basehttp 42423 13087051776 "GET /admin/lesson3/posts/ HTTP/1.1" 200 31832
+INFO 2023-10-23 08:59:11,696 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 08:59:53,204 basehttp 42423 13087051776 "GET /admin/lesson5/category/add/ HTTP/1.1" 200 9854
+INFO 2023-10-23 08:59:53,229 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:00:01,180 basehttp 42423 13087051776 "POST /admin/lesson5/category/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 09:00:01,194 basehttp 42423 13087051776 "GET /admin/lesson5/category/add/ HTTP/1.1" 200 10145
+INFO 2023-10-23 09:00:01,217 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:00:04,413 basehttp 42423 13087051776 "POST /admin/lesson5/category/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 09:00:04,445 basehttp 42423 13087051776 "GET /admin/lesson5/category/ HTTP/1.1" 200 10698
+INFO 2023-10-23 09:00:04,465 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:00:40,552 basehttp 42423 13087051776 "GET /admin/lesson5/product/add/ HTTP/1.1" 200 11711
+INFO 2023-10-23 09:00:40,588 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:00:40,591 basehttp 42423 13103841280 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2023-10-23 09:00:45,371 basehttp 42423 13087051776 "POST /admin/lesson5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 09:00:45,392 basehttp 42423 13087051776 "GET /admin/lesson5/product/add/ HTTP/1.1" 200 11993
+INFO 2023-10-23 09:00:45,410 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:00:50,595 basehttp 42423 13087051776 "POST /admin/lesson5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 09:00:50,620 basehttp 42423 13087051776 "GET /admin/lesson5/product/add/ HTTP/1.1" 200 11999
+INFO 2023-10-23 09:00:50,639 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:10:38,125 basehttp 42423 13087051776 "GET /admin/lesson5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4479
+INFO 2023-10-23 09:10:38,145 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:10:41,515 basehttp 42423 13087051776 "POST /admin/lesson5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+INFO 2023-10-23 09:10:41,531 basehttp 42423 13087051776 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2023-10-23 09:12:06,009 basehttp 42423 13087051776 "POST /admin/lesson5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 09:12:06,030 basehttp 42423 13087051776 "GET /admin/lesson5/product/ HTTP/1.1" 200 10893
+INFO 2023-10-23 09:12:06,050 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:12:10,981 basehttp 42423 13087051776 "GET /admin/lesson5/product/add/ HTTP/1.1" 200 11756
+INFO 2023-10-23 09:12:11,002 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 09:12:18,602 basehttp 42423 13087051776 "POST /admin/lesson5/product/add/ HTTP/1.1" 302 0
+INFO 2023-10-23 09:12:18,629 basehttp 42423 13087051776 "GET /admin/lesson5/product/ HTTP/1.1" 200 11115
+INFO 2023-10-23 09:12:18,649 basehttp 42423 13087051776 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:17:47,185 autoreload 43463 8662602304 Watching for file changes with StatReloader
+INFO 2023-10-23 11:18:03,903 basehttp 43463 13079429120 "GET /admin/ HTTP/1.1" 200 11113
+INFO 2023-10-23 11:18:50,170 basehttp 43463 13079429120 "GET /admin/lesson5/product/ HTTP/1.1" 200 10898
+INFO 2023-10-23 11:18:50,192 basehttp 43463 13079429120 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:18:52,505 basehttp 43463 13079429120 "GET /admin/lesson5/product/3/change/ HTTP/1.1" 200 14506
+INFO 2023-10-23 11:18:52,524 basehttp 43463 13079429120 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:19:08,510 basehttp 43463 13079429120 "POST /admin/lesson5/product/3/change/ HTTP/1.1" 302 0
+INFO 2023-10-23 11:19:08,534 basehttp 43463 13079429120 "GET /admin/lesson5/product/ HTTP/1.1" 200 11111
+INFO 2023-10-23 11:19:08,554 basehttp 43463 13079429120 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:21:33,165 autoreload 43463 8662602304 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:21:33,634 autoreload 43499 8597213760 Watching for file changes with StatReloader
+INFO 2023-10-23 11:22:26,940 autoreload 43499 8597213760 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:22:27,302 autoreload 43512 8634368576 Watching for file changes with StatReloader
+INFO 2023-10-23 11:22:36,357 basehttp 43512 13022822400 "GET /admin/lesson5/product/ HTTP/1.1" 200 11518
+INFO 2023-10-23 11:22:36,372 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:22:45,066 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=1 HTTP/1.1" 200 11952
+INFO 2023-10-23 11:22:45,086 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:22:46,075 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-1 HTTP/1.1" 200 11959
+INFO 2023-10-23 11:22:46,101 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:22:51,827 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=1 HTTP/1.1" 200 11952
+INFO 2023-10-23 11:22:51,847 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:22:56,423 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=2.1 HTTP/1.1" 200 12444
+INFO 2023-10-23 11:22:56,443 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:22:57,990 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=3.2.1 HTTP/1.1" 200 12859
+INFO 2023-10-23 11:22:58,010 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:22:59,955 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3.2.1 HTTP/1.1" 200 12870
+INFO 2023-10-23 11:22:59,976 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:05,292 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3.2.-1 HTTP/1.1" 200 12881
+INFO 2023-10-23 11:23:05,312 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:07,304 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3.2.1 HTTP/1.1" 200 12870
+INFO 2023-10-23 11:23:07,327 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:09,557 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3.2.-1 HTTP/1.1" 200 12881
+INFO 2023-10-23 11:23:09,577 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:11,855 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3.2.1 HTTP/1.1" 200 12870
+INFO 2023-10-23 11:23:11,875 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:23,975 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3.2 HTTP/1.1" 200 12453
+INFO 2023-10-23 11:23:23,995 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:25,478 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o=-3 HTTP/1.1" 200 11959
+INFO 2023-10-23 11:23:25,499 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:23:27,074 basehttp 43512 13022822400 "GET /admin/lesson5/product/?o= HTTP/1.1" 200 11643
+INFO 2023-10-23 11:23:27,095 basehttp 43512 13022822400 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:24:38,189 autoreload 43512 8634368576 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:24:38,555 autoreload 43531 8663372352 Watching for file changes with StatReloader
+INFO 2023-10-23 11:25:47,147 autoreload 43531 8663372352 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:25:47,573 autoreload 43547 8667509312 Watching for file changes with StatReloader
+INFO 2023-10-23 11:26:13,212 autoreload 43547 8667509312 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:26:13,586 autoreload 43555 8593486400 Watching for file changes with StatReloader
+INFO 2023-10-23 11:26:52,469 autoreload 43555 8593486400 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:26:52,806 autoreload 43566 8600474176 Watching for file changes with StatReloader
+INFO 2023-10-23 11:26:57,179 basehttp 43566 12952412160 "GET /admin/lesson5/product/?o= HTTP/1.1" 200 12935
+INFO 2023-10-23 11:26:57,200 basehttp 43566 12952412160 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:28:52,679 autoreload 43566 8600474176 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:28:53,113 autoreload 43600 8596902464 Watching for file changes with StatReloader
+INFO 2023-10-23 11:32:55,100 autoreload 43600 8596902464 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:32:55,490 autoreload 43633 8671236672 Watching for file changes with StatReloader
+INFO 2023-10-23 11:33:06,006 basehttp 43633 13094416384 "GET /admin/lesson5/product/?o= HTTP/1.1" 200 13473
+INFO 2023-10-23 11:33:06,020 basehttp 43633 13094416384 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:39:49,647 autoreload 43633 8671236672 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:39:50,689 autoreload 43696 8633336384 Watching for file changes with StatReloader
+INFO 2023-10-23 11:40:04,078 autoreload 43696 8633336384 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:40:04,384 autoreload 43710 8608387648 Watching for file changes with StatReloader
+INFO 2023-10-23 11:41:14,025 basehttp 43710 12968009728 "GET /admin/lesson5/product/?o= HTTP/1.1" 200 13566
+INFO 2023-10-23 11:41:14,053 basehttp 43710 12968009728 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:41:20,859 basehttp 43710 12968009728 "POST /admin/lesson5/product/?o= HTTP/1.1" 302 0
+INFO 2023-10-23 11:41:20,892 basehttp 43710 12968009728 "GET /admin/lesson5/product/?o= HTTP/1.1" 200 13565
+INFO 2023-10-23 11:41:20,914 basehttp 43710 12968009728 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-10-23 11:48:05,808 autoreload 43710 8608387648 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:48:06,205 autoreload 43808 8671748672 Watching for file changes with StatReloader
+INFO 2023-10-23 11:49:01,133 autoreload 43808 8671748672 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:49:01,548 autoreload 43838 8632754752 Watching for file changes with StatReloader
+INFO 2023-10-23 11:54:32,308 autoreload 43838 8632754752 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:54:32,692 autoreload 43962 8661717568 Watching for file changes with StatReloader
+INFO 2023-10-23 11:55:33,524 autoreload 43962 8661717568 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:55:33,895 autoreload 44004 8629097024 Watching for file changes with StatReloader
+INFO 2023-10-23 11:56:58,373 autoreload 44004 8629097024 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:56:58,756 autoreload 44035 8595452480 Watching for file changes with StatReloader
+INFO 2023-10-23 11:57:23,302 autoreload 44035 8595452480 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:57:23,701 autoreload 44047 8674759232 Watching for file changes with StatReloader
+INFO 2023-10-23 11:57:34,048 autoreload 44047 8674759232 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:57:34,419 autoreload 44053 8638820928 Watching for file changes with StatReloader
+INFO 2023-10-23 11:57:48,815 autoreload 44053 8638820928 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:57:49,159 autoreload 44060 8641319488 Watching for file changes with StatReloader
+INFO 2023-10-23 11:58:40,048 autoreload 44060 8641319488 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:58:40,444 autoreload 44070 8669643328 Watching for file changes with StatReloader
+INFO 2023-10-23 11:58:50,843 autoreload 44070 8669643328 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:58:51,229 autoreload 44079 8608981568 Watching for file changes with StatReloader
+INFO 2023-10-23 11:59:29,288 autoreload 44079 8608981568 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:59:29,685 autoreload 44086 8603812416 Watching for file changes with StatReloader
+INFO 2023-10-23 11:59:33,882 autoreload 44086 8603812416 /Users/denisvoropaev/PycharmProjects/Django/denproject/lesson5/admin.py changed, reloading.
+INFO 2023-10-23 11:59:34,151 autoreload 44091 8665690688 Watching for file changes with StatReloader
+INFO 2023-10-25 08:43:06,489 autoreload 51509 8671662656 Watching for file changes with StatReloader
+INFO 2023-10-25 08:43:24,003 autoreload 51509 8671662656 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-25 08:43:24,345 autoreload 51519 8636797504 Watching for file changes with StatReloader
+INFO 2023-10-25 08:43:30,775 basehttp 51519 13028319232 "GET / HTTP/1.1" 200 11123
+INFO 2023-10-25 08:43:30,807 basehttp 51519 13061898240 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2023-10-25 08:43:30,807 basehttp 51519 13028319232 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2023-10-25 08:43:30,807 basehttp 51519 13045108736 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2023-10-25 08:43:30,849 basehttp 51519 13028319232 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2023-10-25 08:44:59,763 basehttp 51519 13028319232 "GET /__debug__/render_panel/?store_id=1ce12385ef764e1b8f2b98dac64f3b36&panel_id=HistoryPanel HTTP/1.1" 200 2505
+INFO 2023-10-25 08:44:59,783 basehttp 51519 13028319232 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2023-10-25 08:45:01,943 basehttp 51519 13028319232 "GET /__debug__/render_panel/?store_id=1ce12385ef764e1b8f2b98dac64f3b36&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2023-10-25 08:47:05,521 basehttp 51519 13028319232 "GET /__debug__/render_panel/?store_id=1ce12385ef764e1b8f2b98dac64f3b36&panel_id=HeadersPanel HTTP/1.1" 200 5353
+INFO 2023-10-25 08:48:34,182 basehttp 51519 13028319232 "GET /__debug__/render_panel/?store_id=1ce12385ef764e1b8f2b98dac64f3b36&panel_id=SQLPanel HTTP/1.1" 200 14599
+INFO 2023-10-25 08:49:03,519 basehttp 51519 13028319232 "GET /__debug__/render_panel/?store_id=1ce12385ef764e1b8f2b98dac64f3b36&panel_id=StaticFilesPanel HTTP/1.1" 200 33295
+INFO 2023-10-25 08:49:06,182 basehttp 51519 13028319232 "GET /__debug__/render_panel/?store_id=1ce12385ef764e1b8f2b98dac64f3b36&panel_id=TemplatesPanel HTTP/1.1" 200 6041
+INFO 2023-10-25 09:13:28,435 basehttp 51519 13028319232 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2023-10-25 11:19:47,061 autoreload 52676 8634966592 Watching for file changes with StatReloader
+WARNING 2023-10-25 11:20:04,635 log 52676 13021462528 Not Found: /les6/db
+WARNING 2023-10-25 11:20:04,636 basehttp 52676 13021462528 "GET /les6/db HTTP/1.1" 404 13210
+INFO 2023-10-25 11:20:04,676 basehttp 52676 13021462528 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2023-10-25 11:20:04,678 basehttp 52676 13038252032 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2023-10-25 11:20:04,679 basehttp 52676 13021462528 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2023-10-25 11:20:04,721 basehttp 52676 13021462528 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2023-10-25 11:20:28,382 log 52676 13021462528 Not Found: /les6/db
+WARNING 2023-10-25 11:20:28,382 basehttp 52676 13021462528 "GET /les6/db HTTP/1.1" 404 13210
+INFO 2023-10-25 11:20:38,899 basehttp 52676 13021462528 "GET /les5/db HTTP/1.1" 200 11199
+INFO 2023-10-25 11:20:38,917 basehttp 52676 13038252032 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2023-10-25 11:20:47,171 basehttp 52676 13021462528 "GET /les5/db/ HTTP/1.1" 200 11653
+INFO 2023-10-25 11:24:47,520 basehttp 52676 13021462528 "GET /les5/view/ HTTP/1.1" 200 11672
+INFO 2023-10-25 11:26:43,089 basehttp 52676 13021462528 "GET /les5/template/ HTTP/1.1" 200 11654
+INFO 2023-10-25 11:26:48,816 basehttp 52676 13021462528 "GET /__debug__/render_panel/?store_id=c5d1241ddb804084a25378700f6718c2&panel_id=SQLPanel HTTP/1.1" 200 23572
+INFO 2023-10-25 11:30:01,486 basehttp 52676 13021462528 "GET /__debug__/render_panel/?store_id=c5d1241ddb804084a25378700f6718c2&panel_id=HistoryPanel HTTP/1.1" 200 10728
+INFO 2023-10-25 11:30:01,492 basehttp 52676 13021462528 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 304 0
+INFO 2023-10-25 11:30:04,616 basehttp 52676 13021462528 "GET /__debug__/history_sidebar/?store_id=646e8a3e225e4a4fbbbbd8646ccc94ff&exclude_history=True HTTP/1.1" 200 12337
+INFO 2023-10-25 11:30:10,062 basehttp 52676 13021462528 "GET /__debug__/history_sidebar/?store_id=aca258cd8b624f2683be643a1952f39d&exclude_history=True HTTP/1.1" 200 12370
+INFO 2023-10-25 11:30:12,012 basehttp 52676 13021462528 "GET /__debug__/history_sidebar/?store_id=a41993783175425faa8cd47945bfb088&exclude_history=True HTTP/1.1" 200 12372
+INFO 2023-10-25 11:30:13,462 basehttp 52676 13021462528 "GET /__debug__/history_sidebar/?store_id=c5d1241ddb804084a25378700f6718c2&exclude_history=True HTTP/1.1" 200 12376
+INFO 2023-10-25 11:42:05,687 autoreload 52676 8634966592 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-25 11:42:06,374 autoreload 53017 8642855488 Watching for file changes with StatReloader
+INFO 2023-10-25 11:44:12,292 autoreload 53017 8642855488 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-25 11:44:12,796 autoreload 53059 8631181888 Watching for file changes with StatReloader
+INFO 2023-10-25 11:45:23,738 autoreload 53059 8631181888 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-25 11:45:24,201 autoreload 53084 8667091520 Watching for file changes with StatReloader
+INFO 2023-10-25 11:56:27,214 autoreload 53084 8667091520 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-25 11:56:27,620 autoreload 53160 8605315648 Watching for file changes with StatReloader
+INFO 2023-10-25 11:58:12,145 autoreload 53160 8605315648 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
+INFO 2023-10-25 11:58:12,553 autoreload 53230 8629031488 Watching for file changes with StatReloader
+INFO 2023-10-25 11:59:40,973 autoreload 53230 8629031488 /Users/denisvoropaev/PycharmProjects/Django/denproject/denproject/settings.py changed, reloading.
